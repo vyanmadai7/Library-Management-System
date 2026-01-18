@@ -2,7 +2,7 @@
 
 A Python based command line program for managing library operations including book inventory, borrowing, and returns.
 
-## Features
+----------FEATURES----------
 
 ### For Administrators
 - Add new books or increase existing book copies
