@@ -17,7 +17,7 @@ A Python based command line program for managing library operations including bo
 - Search for book availability
 - View the complete book catalog
 
-## Installation
+----------Installation----------
 
 ```bash
 git clone https://github.com/vyanmadai7/Library-Management-System.git
